@@ -18,7 +18,7 @@ Recommended:  Add a screen shot of the custom prompt, for example after running 
 
 This prompt module is a simple one. While it draws inspiration from a number of other prompts, it is primarily Windows-first, and not a *nix port. It is for power users of the command line (that's why we use `clink`) who see the venerable `C:\>` as its own unique shell *identity* **^_^**.
 
-Though it is simple, it includes various options such as displaying timestamps, computer names, muting of previous prompts, error indicators, single/two-line prompts and a few different background/no-background theme colours - all of which can be enabled/disabled on-the-fly with simple environment variables.
+Though it is simple, it includes various options such as displaying timestamps, computer names, muting of old prompts, error indicators, battery/power indicators, drive status indicators, single/two-line prompts and a few different background/no-background theme colours - all of which can be enabled/disabled on-the-fly with simple environment variables.
 
 ![Default](DeepWave.png)
 
